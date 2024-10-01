@@ -5,7 +5,7 @@
 
 |               | Name                  | Email               | Office hours                                        |  Lectures                          | Location    |
 ----------------|-----------------------|---------------------|-----------------------------------------------------|------------------------------------|-------------|
-|**Instructor** | Niels Volkmann        | nvo@ucsb.edu        | By appointment; Zoom                                | M, W 3:30 - 4:15PM                 | Phelps 1260 |
+|**Instructor** | Niels Volkmann        | nvo@ucsb.edu        | By appointment; Zoom                                | M, W 3:30 - 4:45PM                 | Phelps 1260 |
 |               |                       |                     |                                                     | <p align="center"> **Discussions** |             |
 |**TAs**        | Anantajit Subrahmanya | anantajit@ucsb.edu  | Tu 11:00 - 12:00PM; TBA <br> Th 11:00 - 12:00PM; TBA| F 10:00 - 10:50AM                  | GIRV 2112   |
 |               | Hardik Prajapati      | hprajapati@ucsb.edu | W 2:15 - 3:15PM; TBA <br> Th 11:00 - 12:00PM; TBA   | F 12:00 - 12:50PM                  | GIRV 1220   |
