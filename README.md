@@ -35,5 +35,5 @@ The following is the approximate schedule for the topics of this course. THe cha
 | 8    | 11/18 | *(Mon 11/18, no Class)* Morphological Operations          | CH 9          |
 | 9    | 11/25 | *(Fri 11/28, Thanksgiving)* Biomedical Image Processing   | Papers        |
 |10    | 12/02 | Biomedical Image Processing, Finals Review (Wed 12/04)    | Papers        |
-|11    | 12/09 | **Wed 11/12, 2-5 PM Final Examination**                   |               |
+|11    | 12/09 | **Fri 13/12, 12:00-3:00 PM Final Examination**                   |               |
 
