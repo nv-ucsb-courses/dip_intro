@@ -3,7 +3,7 @@
 
 ## iClicker
 
-From Wednesday, October 16 onwards, we will start using iClicker in class. If you have not already done so, please make sure you have a UCSB iClicker student account ready. Here is a [link](https://help.lsit.ucsb.edu/hc/en-us/articles/360054938191-iClicker-Cloud-for-Students) with the pertinent information.
+From Wednesday, October 16 onwards, we will start using iClicker in class. If you have not already done so, please make sure you have a UCSB iClicker student account ready. Here is a [link](https://help.lsit.ucsb.edu/hc/en-us/articles/360054938191-iClicker-Cloud-for-Students) with the pertinent information. The join link for the course is [here](https://join.iclicker.com/WUKC).
 
 
 ## General Information
