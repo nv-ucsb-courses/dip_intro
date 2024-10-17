@@ -3,7 +3,7 @@
 
 ## iClicker
 
-From Wednesday, October 16 onwards, we will start using iClicker in class. If you have not already done so, please make sure you have a UCSB iClicker student account ready. Here is a [link](https://help.lsit.ucsb.edu/hc/en-us/articles/360054938191-iClicker-Cloud-for-Students) with the pertinent information. The join link for the course is [here](https://join.iclicker.com/WUKC).
+From Wednesday, October 16 onwards, we will start using iClicker in class. If you have not already done so, please make sure you have a UCSB iClicker student account ready. Here is a [link](https://help.lsit.ucsb.edu/hc/en-us/articles/360054938191-iClicker-Cloud-for-Students) with the pertinent information. The join link for the course is [here](https://join.iclicker.com/WUKC). If the ink does not work, try searching for "Digital Image Processing" in the iClicker search interface. Be aware that the in-class iClicker activities will count towards your grades. I will give credit for participation only, the coirrectness of the answers will not influence the grades. If you miss an iClicker activity without prior approval, you will not be able to make up for it.
 
 
 ## General Information
