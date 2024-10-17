@@ -27,7 +27,7 @@ This course offers an introduction to digital image processing. You will learn a
 * Rafael C. Gonzalez and Richard E. Woods. *Digital Image Processing (4th Edition)*. Pearson, 2018.
 
 ## Course Schedule
-The following is the approximate schedule for the topics of this course. THe chapters (CH) in the Reading column refer to the textbook above. Exact order of topics are subject to change:
+The following is the approximate schedule for the topics of this course. The chapters (CH) in the Reading column refer to the textbook above. Exact order of topics are subject to change:
 
 | Week | Date  | Topics                                                    | Reading       |
 |------|-------|-----------------------------------------------------------|---------------|
