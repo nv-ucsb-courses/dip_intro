@@ -9,7 +9,7 @@
 
 == 2D Fourier Transform Intuition (8 points)
 
-1. Compute the (Discrete) Fourier Transform for each of the following signals, assuming that each signal has a length of 8 samples. Sketch a plot of the resulting Fourier Transform including axis labels.
+1. Derive the (Discrete) Fourier Transform for each of the following signals, assuming that each signal has a length of 8 samples. Sketch a plot of the resulting Fourier Transform including axis labels.
 
   a. $p[n] = n mod 2$
 
