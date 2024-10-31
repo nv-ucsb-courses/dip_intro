@@ -33,7 +33,7 @@
 
 3. Explain the intuition behind the light pixels for 2a. What does a lit-up pixel represent? Create a general rule which applies to larger images.
 
-== [PROGRAMMING] Fast Convolution (4 points)
+== [PROGRAMMING] Fast Convolution (7 points)
 
 #bold[Unless otherwise stated, you may not use any library functions which compute convolution for this problem.]
 
@@ -41,10 +41,4 @@
 
 2. Recall the relationship between convolution and the FFT. Use any `np.fft` to implement a faster `fastconv(x[n], y[n])` in numpy. Briefly explain why this implementation is faster.
 
-== [PROGRAMMING] Basic Filtering (3 points)
-
-Apply each of the three transformations to the `basic_filtering.png` image. Use the kernels provided in lecture/discussion. Save each of the output images.
-
-1. Trace edges using a 3x3 gradient operator of your choice.
-
-2. Sharpen the image using Laplacian Sharpening.
+#bold[Bonus (not graded)] Convolution should work for signals of arbitrary length - not just signals of identical length. Implement `fastconv2(x[n], y[m])` using an FFT to improve your runtime where `x[n]` and `y[m]` don't necessarily have the same length.
