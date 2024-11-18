@@ -3,7 +3,7 @@
 
 ## Reading Material
 
-Reading material for Monday 11/18 has been added [(link)](https://github.com/nv-ucsb-courses/dip_intro/tree/main/Reading%20Material%2011%3A18).
+Reading material for Monday 11/18 has been added ([link](https://github.com/nv-ucsb-courses/dip_intro/tree/main/Reading%20Material%2011%3A18)).
 
 ## iClicker
 
