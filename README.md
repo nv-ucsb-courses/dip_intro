@@ -1,6 +1,11 @@
 # UCSB - ECE 178: Introduction to digital image processing
 ![banner](banner/banner2.jpg)
 
+## Class Project
+
+The zip file you can download [here](https://www.dropbox.com/scl/fi/tvalfx4cis2nqqdsz1qfg/dip-project-imgs.zip?rlkey=4w4d0z30oqqcq5cpe1wl23ffw&dl=0) contains 500 noisy projection images of a macromolecule representative of the types of data encountered in structural biology, particularly in cryo-electron microscopy (cryo-EM). Your task is to reconstruct the best possible representation of the macromolecule's underlying structure using the provided dataset. See [here] for additional details.
+
+
 ## Reading Material
 
 Reading material for Monday 11/18 has been added ([link](https://github.com/nv-ucsb-courses/dip_intro/tree/main/Reading%20Material%2011%3A18)).
