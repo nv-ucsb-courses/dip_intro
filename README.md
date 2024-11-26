@@ -30,7 +30,7 @@ This course offers an introduction to digital image processing. You will learn a
 
 
 ## Grading
-40% Homework (including programming assignments, and quizzes). Note that the weight for each homework will vary, depending on the level of difficulty of the questions/programming assignments. 20% Mid-term examination, and 40% for the final examination. There will be an in-class midterm (Wednesday, Oct. 30) and a final exam (Wednesday Nov. 12). These exams will be closed-book, closed-notes; we will provide a formula sheet for you to use if necessary. Make every effort to show up on time for the regular, scheduled exam times.
+40% Homework (including programming assignments, and quizzes). The last two homework assignments will be replaced by the Class Project. Note that the weight for each homework will vary, depending on the level of difficulty of the questions/programming assignments. 20% Mid-term examination, and 40% for the final examination. There will be an in-class midterm (Wednesday, Oct. 30) and a final exam (Wednesday Nov. 12). These exams will be closed-book, closed-notes; we will provide a formula sheet for you to use if necessary. Make every effort to show up on time for the regular, scheduled exam times.
 
 ## Textbook
 * Rafael C. Gonzalez and Richard E. Woods. *Digital Image Processing (4th Edition)*. Pearson, 2018.
